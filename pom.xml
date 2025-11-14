@@ -13,6 +13,10 @@
         <module>Module1Lecture1Task5and6</module>
         <module>Module1Lecture2Task2</module>
         <module>Module1Lecture2Task3</module>
+        <module>Module1Lecture3Task2</module>
+        <module>Module1Lecture3Task5</module>
+        <module>Module1Lecture3Task6</module>
+        <module>Module1Lecture3Task7</module>
     </modules>
 
     <properties>
